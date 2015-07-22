@@ -49,7 +49,7 @@ width_over_thickness = 2.2;
 //belt_tooth_ratio = 0.64;
 //belt_thickness = i have no idea;
 
-// GT2 
+// GT2
 // there is bunch of GT2 belts with different tooth-to-tooth distance
 // this one is most common in reprap world
 // adjust to your needs.
@@ -93,7 +93,7 @@ carriage_l_base = 50;
 use_fillets = 1;
 
 // set to 0 for single plate (affects z axis and screws that attach RP parts to frame)
-i_am_box = 0;
+i_am_box = 1;
 
 // if you do your own plate and can move bottom Z screws 5mm up set this to 0 to
 // get stronger motor mount. Only for i_am_box = 0
@@ -106,7 +106,7 @@ i_want_to_use_single_plate_dxf_and_make_my_z_weaker = 1;
 // and y-axis-bracket (box only)
 
 //Use 5.4 for M10 or 4.4 for M8
-y_threaded_rod_long_r = 5.4;
+y_threaded_rod_long_r = 4.4;
 
 
 // Thickness of the boards that make the box frame.
